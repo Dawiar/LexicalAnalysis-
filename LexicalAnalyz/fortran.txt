@@ -1,0 +1,31 @@
+      PROGRAM T
+C PROGRAM ON FORTRAN
+      INTEGER A,B
+      REAL C, D
+      CHARACTER E,G
+      DIMENSION A(5)
+      B = 20
+ 123  A(B) = B
+      B=B/2
+      IF (B.NE.5) GOTO 123
+      C=1.2E-2+.2E+1
+      D=C+1.5+A(1)-.5
+      B=3**2
+      E='O'
+      G="HELLO"
+      C=F2()
+      CALL F1(B,2)
+      STOP
+      END
+
+      REAL FUNCTION F2
+      F2=1.5*2.2
+      RETURN
+      END
+
+      SUBROUTINE F1
+      PARAMETER A,B
+      INTEGER E
+      E=A+B
+      RETURN
+      END

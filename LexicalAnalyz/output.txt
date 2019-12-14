@@ -1,0 +1,31 @@
+w1 i1 r4 
+r4 
+w7 i2 r3 i3 r4 
+w9 i4 r3 i5 r4 
+w8 i6 r3 i7 r4 
+w5 i2 r1 n1 r2 r4 
+i3 o1 n2 r4 
+n3 i2 r1 i3 r2 o1 i3 r4 
+i3 o1 i3 o5 n4 r4 
+w3 r1 i3 o11 n1 r2 w4 n3 r4 
+i4 o1 n5 o2 n6 r4 
+i5 o1 i4 o2 n7 o2 i2 r1 n8 r2 o3 n9 r4 
+i3 o1 n10 o6 n4 r4 
+i6 o1 c0 r4 
+i7 o1 c1 r4 
+i4 o1 i8 r1 r2 r4 
+w12 i9 r1 i3 r3 n4 r2 r4 
+w13 r4 
+w2 r4 
+r4 
+w9 w6 i8 r4 
+i8 o1 n7 o4 n11 r4 
+w14 r4 
+w2 r4 
+r4 
+w10 i9 r4 
+w11 i2 r3 i3 r4 
+w7 i6 r4 
+i6 o1 i2 o2 i3 r4 
+w14 r4 
+w2 
