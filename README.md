@@ -1,1 +1,1 @@
-# LexicalAnalysis-
+выделение лексем из входного языка fortran 
